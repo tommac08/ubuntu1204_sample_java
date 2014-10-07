@@ -1,4 +1,6 @@
-ubuntu1204_java_sample
-======================
+Java Sample for shippableimages/ubuntu1204_java image
+================
 
-build sample for shippableimages/ubuntu1204_java docker image
+Sample Java app using Maven.
+
+This sample is built for Shippable, a docker based continuous integration and deployment platform.
